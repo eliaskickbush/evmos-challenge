@@ -1,0 +1,6 @@
+[submodule "evmos"]
+	path = evmos
+	url = git@github.com:evmos/evmos
+[submodule "go-ethereum"]
+	path = go-ethereum
+	url = git@github.com:ethereum/go-ethereum
